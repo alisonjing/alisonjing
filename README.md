@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Now Playing — Spotify 🎧
+<p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwqhwmlhshsshvvnzljnl6vqfa&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwqhwmlhshsshvvnzljnl6vqfa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/>
+</a>
+</p>
