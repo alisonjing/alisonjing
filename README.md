@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **AI & ML in Heliophysics @ NASA Frontier Development Lab**
 - 🌱 Learning: **Solar Physics / Deep Learning / Scientific ML**
-- 💡 I love exploring **complex systems, astronomy, and Machine Learning**
+- 💡 I love exploring **complex systems, Astronomy, and Machine Learning**
 - 🎯 Goal: Build tools that help humans understand the universe
 - 💬 Ask me about: Python, ML, AI, Data Science, Space missions
 
