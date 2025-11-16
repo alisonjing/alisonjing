@@ -19,7 +19,7 @@
 ### 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,latex,vscode,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,pytorch,tensorflow,git,github,linux,latex,vscode,aws,azure" />
 </p>
 
 ---
