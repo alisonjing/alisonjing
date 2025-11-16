@@ -40,7 +40,3 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwqhwmlhshsshvvnzljnl6vqfa&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/>
 </a>
 </p>
-
----
-
-<p align="center">⭐ If you like what I do, consider starring one of my projects!</p>
