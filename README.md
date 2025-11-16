@@ -1,4 +1,8 @@
-<h2 align="center"> Hi there 👋 I'm Alison </h2>
+<h2 align="center">
+  Hi there 👋 I'm Alison
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZqdDd1dmVuYmRpeDVzNDQ4bjJ5MHY1Nzhtejl1djl3bmFlMjQydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="40" />
+</h2>
+
 
 <p align="center">
 ✨ Data Science | Machine Learning | Heliophysics | AI Research ✨  
@@ -27,8 +31,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonjing&theme=tokyonight" height="165"/>
- <img src="https://github-readme-stats.vercel.app/api?username=alisonjing&show_icons=true&theme=tokyonight" height="165"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonjing&theme=codeSTACKr" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=alisonjing&show_icons=true&theme=codeSTACKr" height="165"/>
 </p>
 
 ---
@@ -39,4 +43,9 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwqhwmlhshsshvvnzljnl6vqfa&redirect=true">
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwqhwmlhshsshvvnzljnl6vqfa&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/>
 </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMzdGVqd2xhb21kOXd0NXh3ajJkb3BjMXFzZDRyanBoZHdwNjNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DIUziUceX1jXsDcIb2/giphy.gif" width="150"/>
 </p>
