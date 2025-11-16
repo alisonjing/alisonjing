@@ -20,7 +20,8 @@
 
 ---
 
-### 🧠 Languages & Tools
+### 🧠 Languages & Tools <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV0dzNveG13d25qdThybmtnbzJ1NW9mNHlicjlrNjRjenRicTQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="60" style="margin-left: 6px;" />
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,pytorch,tensorflow,git,github,linux,latex,vscode,aws,azure" />
@@ -37,7 +38,7 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
+### 🎵 Now Playing on Spotify <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ4ejJoaHlmcnU0c3cwaXY0ZWkxMzVkYWo1am5nNTdseWpybWNjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif" width="50" style="margin-left: 6px;" />
 
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwqhwmlhshsshvvnzljnl6vqfa&redirect=true">
@@ -46,6 +47,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMzdGVqd2xhb21kOXd0NXh3ajJkb3BjMXFzZDRyanBoZHdwNjNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DIUziUceX1jXsDcIb2/giphy.gif" width="150"/>
 </p>
