@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNoejVmczI5a3FydzhyZjA1Y3JsOGx6MnhpcnVsYjAyajR3b3J3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rYbjgltjQzyYueGHnT/giphy.gif" width="60" style="margin-left: 6px;" />
 
 - 🔭 Currently working on **AI & ML in Heliophysics @ NASA Frontier Development Lab**
 - 🌱 Learning: **Solar Physics / Deep Learning / Scientific ML**
@@ -32,9 +32,15 @@
 ### 📊 GitHub Activity
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonjing&theme=codeSTACKr" height="165"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonjing&theme=codeSTACKr" height="165"/> 
  <img src="https://github-readme-stats.vercel.app/api?username=alisonjing&show_icons=true&theme=codeSTACKr" height="165"/>
 </p>
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisonjing&theme=tokyonight" height="165"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisonjing&theme=tokyonight" height="165"/>
+</p>
+
 
 ---
 
@@ -47,7 +53,6 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMzdGVqd2xhb21kOXd0NXh3ajJkb3BjMXFzZDRyanBoZHdwNjNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DIUziUceX1jXsDcIb2/giphy.gif" width="150"/>
 </p>
