@@ -29,7 +29,8 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity <sub><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d4azR0ODd1dzhoMnI2aGhocjdoajNzM2JsdHZvN3VlbXk2eGJmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" width="60"></sub>
+
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonjing&theme=codeSTACKr" height="165"/> 
@@ -53,6 +54,28 @@
 </p>
 
 ---
+
+### 📬 Contact Me
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMzdGVqd2xhb21kOXd0NXh3ajJkb3BjMXFzZDRyanBoZHdwNjNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DIUziUceX1jXsDcIb2/giphy.gif" width="150"/>
 </p>
+
+<p align="center">
+Let's connect — I'm always open to discussions on AI, heliophysics, research, data science, and creative tech ideas 🚀  
+</p>
+
+<p align="center">
+<a href="mailto:alma2157@colorado.edu"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alisonjingmarch"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/alisonjing"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=9fDCG9gAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0000-3643-8061"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://media.tenor.com/wLBeS0RX3DAAAAAC/cat-wave.gif" width="130">
+</p>
+
+
+
