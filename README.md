@@ -70,7 +70,7 @@ Let's connect — I'm always open to discussions on AI, heliophysics, research, 
 <a href="https://linkedin.com/in/alisonjingmarch"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=9fDCG9gAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0000-3643-8061"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<a href="goodreads.com/alisonjmarch"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/></a>
+<a href="https://www.goodreads.com/user/show/61889652-alison-march"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/></a>
 </p>
 
 <p align="center">
