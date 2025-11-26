@@ -39,14 +39,15 @@
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=alisonjing&theme=codeSTACKr&hide_border=true&cache_seconds=86400" height="165"/>
 
+</p>
 
+<p align="center">
 
   <!-- Productive Time -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisonjing&theme=tokyonight" height="165"/>
 
   <!-- Repos Per Language (Regenerated Cache) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisonjing&theme=tokyonight" height="165"/>
-
 
 
   <!-- GitHub Stats -->
