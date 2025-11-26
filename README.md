@@ -32,17 +32,26 @@
 
 ---
 
-### 📊 GitHub Activity <sub><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d4azR0ODd1dzhoMnI2aGhocjdoajNzM2JsdHZvN3VlbXk2eGJmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" width="60"></sub>
-
+### 📊 GitHub Activity <sub><img src="https://media2.giphy.com/media/VuZhSgPi5ItibCdSoZ/giphy.gif" width="60"></sub>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonjing&theme=codeSTACKr" height="165"/> 
- <img src="https://github-readme-stats.vercel.app/api?username=alisonjing&show_icons=true&theme=codeSTACKr" height="165"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=alisonjing&theme=codeSTACKr&hide_border=true&cache_seconds=86400" height="165"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisonjing&theme=tokyonight" height="165"/>
+
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisonjing&theme=tokyonight" height="165"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisonjing&theme=tokyonight" height="165"/>
+
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisonjing&theme=tokyonight" height="165"/>
+
+  <!-- Repos Per Language (Regenerated Cache) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisonjing&theme=tokyonight" height="165"/>
+
 </p>
 
 
