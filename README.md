@@ -66,7 +66,7 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMzdGVqd2xhb21kOXd0NXh3ajJkb3BjMXFzZDRyanBoZHdwNjNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DIUziUceX1jXsDcIb2/giphy.gif" width="150"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5pZWN6bXJmOGdjaGlibzN5aDUxYWludHdqa2tuenZ6a3FmeWNjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dscTJjpsiVamjIk6nk/giphy.gif" width="150"/>
 </p>
 
 <p align="center">
