@@ -2,8 +2,11 @@ name: Generate GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # Runs daily at 02:00 UTC
+    - cron: "0 2 * * *" # Runs daily at 02:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -17,7 +20,7 @@ jobs:
         with:
           USERNAME: alisonjing
           THEME: tokyonight
-          UTC_OFFSET: 0   # change to -6 if you want US Central Time
+          UTC_OFFSET: "0"
 
       - name: Commit & push
         uses: stefanzweifel/git-auto-commit-action@v5
