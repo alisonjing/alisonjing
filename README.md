@@ -36,20 +36,13 @@
 
 <p align="center">
 
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisonjing&theme=tokyonight" height="165"/>
+<img src="https://raw.githubusercontent.com/alisonjing/alisonjing/main/profile-summary-card-output/tokyonight/2-productive-time.svg" height="165"/>
 
-  <!-- Repos Per Language (Regenerated Cache) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisonjing&theme=tokyonight" height="165"/>
+<img src="https://raw.githubusercontent.com/alisonjing/alisonjing/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165"/>
 
-
-  <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisonjing&theme=tokyonight" height="165"/>
+<img src="https://raw.githubusercontent.com/alisonjing/alisonjing/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="165"/>
 
 </p>
-
-
-
 
 ---
 
