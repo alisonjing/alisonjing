@@ -1,0 +1,26 @@
+name: Generate GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Runs daily at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: alisonjing
+          THEME: tokyonight
+          UTC_OFFSET: 0   # change to -6 if you want US Central Time
+
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub profile summary cards"
+          branch: main
