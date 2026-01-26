@@ -59,7 +59,9 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5pZWN6bXJmOGdjaGlibzN5aDUxYWludHdqa2tuenZ6a3FmeWNjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dscTJjpsiVamjIk6nk/giphy.gif" width="150"/>
+  
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ6bjA5ZHhhNG1mazg0NGJ6M2V4bDdtNjN6bzMyaHgza3F2ZnowbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif" width="200"/>
+
 </p>
 
 <p align="center">
