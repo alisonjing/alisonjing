@@ -46,14 +46,13 @@
 
 ---
 
-### 🎵 Now Playing on Spotify <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ4ejJoaHlmcnU0c3cwaXY0ZWkxMzVkYWo1am5nNTdseWpybWNjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif" width="50" style="margin-left: 6px;" />
+### 🎵 Now Playing on Spotify 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwqhwmlhshsshvvnzljnl6vqfa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwqhwmlhshsshvvnzljnl6vqfa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwqhwmlhshsshvvnzljnl6vqfa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
-
 ---
 
 ### 📬 Contact Me
