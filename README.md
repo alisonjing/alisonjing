@@ -20,6 +20,7 @@
 - 💡 I love exploring **complex systems, Astronomy, and Machine Learning**
 - 🎯 Goal: Build tools that help humans understand the universe
 - 💬 Ask me about: Python, ML, AI, Data Science, Space missions
+- ♟️ Currently enjoying learning French 🇫🇷 & Japanese 🇯🇵 and Chess ♞ & Music Theory 🎼 on Duolingo. 
 
 ---
 
