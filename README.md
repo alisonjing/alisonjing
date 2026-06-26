@@ -9,7 +9,7 @@
 ✨ Data Science | Machine Learning | Heliophysics | AI Research ✨  
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/fCUBPlsv3FTkDqtgYG/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/fCUBPlsv3FTkDqtgYG/giphy.gif" width="300" />
 </p>
 
 <!-- <p align="center">
