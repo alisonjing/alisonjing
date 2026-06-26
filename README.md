@@ -13,7 +13,7 @@
 </p>
 
 <!-- <p align="center">
-  <img src="https://media1.giphy.com/media/hNMA0lRCVx88mn53PF/giphy.gif" width="400" alt="Alt text"/>
+  <img src="https://media1.giphy.com/media/hNMA0lRCVx88mn53PF/giphy.gif" width="200" alt="Alt text"/>
 </p>  -->
 
 
