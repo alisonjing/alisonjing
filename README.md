@@ -8,9 +8,9 @@
 <p align="center">
 ✨ Data Science | Machine Learning | Heliophysics | AI Research ✨  
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/fCUBPlsv3FTkDqtgYG/giphy.gif" width="300" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://media1.giphy.com/media/hNMA0lRCVx88mn53PF/giphy.gif" width="200" alt="Alt text"/>
