@@ -48,7 +48,7 @@
 
 <img src="https://raw.githubusercontent.com/alisonjing/alisonjing/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165"/>
 
-<img src="https://raw.githubusercontent.com/alisonjing/alisonjing/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="165"/>
+<!-- <img src="https://raw.githubusercontent.com/alisonjing/alisonjing/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="165"/> -->
 
 </p>
 
