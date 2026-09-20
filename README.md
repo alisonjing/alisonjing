@@ -23,8 +23,8 @@
 ### 🚀 About Me  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNoejVmczI5a3FydzhyZjA1Y3JsOGx6MnhpcnVsYjAyajR3b3J3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rYbjgltjQzyYueGHnT/giphy.gif" width="60" style="margin-left: 6px;" />
 
 - 🔭 Recently worked on **AI & ML in Heliophysics @ NASA Frontier Development Lab**
-- 🌱 Learning: **Solar Physics / Deep Learning / Scientific ML**
-- 💡 I love exploring **complex systems, Astronomy, and Machine Learning**
+- 🌱 Learning: **Solar Physics and Astrophysics / Deep Learning / Scientific ML**
+- 💡 I love exploring **complex systems, Computational Physics, Astronomy, and Machine Learning**
 - 🎯 Goal: Build tools that help humans understand the universe
 - 💬 Ask me about: Python, ML, AI, Data Science, Space missions
 - ♟️ Currently enjoying learning French 🇫🇷 & Japanese 🇯🇵 and Chess ♞ & Music Theory 🎼 on Duolingo. 
